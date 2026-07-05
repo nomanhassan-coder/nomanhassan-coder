@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noman Hassan</h1>
 <h3 align="center">DevOps Engineer | Cloud Computing Intern | Final Year SE Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanhassan-coder&label=Profile%20views&color=0e75b6&style=flat" alt="nomanhassan-coder" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanhassan-coder&label=Profile%20views&color=0e75b6&style=flat" alt="nomanhassan-coder" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomanhassan-coder" alt="nomanhassan-coder" /></a> </p>
 
